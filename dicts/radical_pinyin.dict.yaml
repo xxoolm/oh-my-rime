@@ -89,10 +89,9 @@
 
 ---
 name: radical_pinyin
-version: "2024.03.22"
+version: "2024.03.23"
 sort: original
 ...
-
 
 〇	ling
 〇	zhe
@@ -295,8 +294,8 @@ sort: original
 㫰	ri'liang
 㬊	ri'yuan
 㬎	ri'yao'yao'huo
-㬚	ri'chi'yu'wen
-㬚	ri'ren'yu'wen
+㬚	ri'yu'wen
+㬜	zhi'zhi'ri
 㭎	mu'gang
 㭏	mu'wei
 㭕	mu'qu
@@ -2810,6 +2809,8 @@ sort: original
 勵	lai'li
 勵	li'li
 勶	che'li
+勶	chi'yu'wen'li
+勶	ren'yu'wen'li
 勷	tou'kou'kou'jing'heng'yi'li
 勷	tou'kou'kou'jing'yi'yi'li
 勷	xiang'li
@@ -9628,7 +9629,8 @@ sort: original
 戎	yi'shi'ge
 戏	you'ge
 成	wu'zhe
-我	cai'ge
+我	pie'cai'ge
+我	pie'shou'ge
 我	shou'ge
 戒	gong'ge
 戒	nong'ge
